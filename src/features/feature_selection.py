@@ -20,7 +20,7 @@ def main():
     X, y = get_features()
     print(X)
     print(y)
-
+    
 if __name__ == '__main__':
     main()
 
