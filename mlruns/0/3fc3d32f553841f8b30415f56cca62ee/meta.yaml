@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Users/NOEL%20SOARES/Desktop/DSMP/mobile-pirce-range-predict/mlruns/0/3fc3d32f553841f8b30415f56cca62ee/artifacts
+end_time: 1723294589679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fc3d32f553841f8b30415f56cca62ee
+run_name: selective-gull-343
+run_uuid: 3fc3d32f553841f8b30415f56cca62ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723294584268
+status: 3
+tags: []
+user_id: NOEL SOARES
